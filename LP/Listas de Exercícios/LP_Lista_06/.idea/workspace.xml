@@ -1,83 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85255d6e-2cc6-4419-8bb0-673e6d4a774e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/LP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO003/EXERCICIO003.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO004/EXERCICIO004.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO005/EXERCICIO005.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO006/EXERCICIO006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO007/EXERCICIO007.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO008/EXERCICIO008.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO009/EXERCICIO009.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO01/EXERCICIO01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO010/EXERCICIO010.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO011/EXERCICIO011.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO012/EXERCICIO012.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO013/EXERCICIO013.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO014/EXERCICIO014.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO015/EXERCICIO015.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO016/EXERCICIO016.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO017/EXERCICIO017.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO018/EXERCICIO018.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO019/EXERCICIO019.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO020/EXERCICIO020.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio1/Exercicio1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio10/Exercicio10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio11/Exercicio11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio12/Exercicio12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio13/Exercicio13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio14/Exercicio14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio15/Exercicio15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio2/Exercicio2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio3/Exercicio3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio4/Exercicio4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio5/Exercicio5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio6/Exercicio6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio7/Exercicio7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio8/Exercicio8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_03/Exercicio9/Exercicio9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio01/Exercicio01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio010/Exercicio010.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio02/Exercicio02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio03/Exercicio03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio04/Exercicio04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio05/Exercicio05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio06/Exercicio06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio07/Exercicio07.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio08/Exercicio08.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_04/Exercicio09/Exercicio09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO1/EXERCICIO1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO10/EXERCICIO10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO11/EXERCICIO11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO12/EXERCICIO12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO2/EXERCICIO2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO3/EXERCICIO3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO4/EXERCICIO4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO5/EXERCICIO5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO6/EXERCICIO6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO7/EXERCICIO7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO8/EXERCICIO8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LP_Lista_05/EXERCICIO9/EXERCICIO9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP_Lista_01/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP_Lista_01/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP_Lista_01/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP_Lista_01/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LP_Lista_01/LP_Lista_01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../LP_Lista_02/EXERCICIO002/EXERCICIO002.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/image.png" beforeDir="false" />
-    </list>
+    <list default="true" id="85255d6e-2cc6-4419-8bb0-673e6d4a774e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2yTOzn2przjOssdAgwMJRZULM4e" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -86,8 +21,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lauren Reis/Documents/ADS_LP"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
